@@ -2,7 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8" />
-  <title>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Математики"</title>
+  <title>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Математики" Ратушної Світлани</title>
   <style type="text/css">
    body {
     font: 10pt Arial, Helvetica, sans-serif; /* Шрифт на веб-странице */
@@ -53,10 +53,10 @@
  </head>
  <body>
   <div id="container">
-   <div id="header">Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Математики"</div>
+   <div id="header">Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Математики" Ратушної Світлани</div>
   
   <div id="content">
-    <h2>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Математики"</h2>
+    <h2>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Математики" Ратушної Світлани</h2>
 <h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
 3. iframe з результатом у pdf або html форматі 
 <p>3. <iframe src="lab1.pdf" width="500" height="700"></iframe></p> 
@@ -65,7 +65,7 @@
 <p>4. <a href="https://drive.google.com/drive/folders/1VvHc--Qsq0wdfXpsgw0jSUu-FNqTgaW1?usp=sharing">Посилання на Гугл диск</a></p> 
 
 5. OneDrive для перегляду результату
-<p>5. <a href="https://drive.google.com/file/d/1-qSt0Ly_LgkXTidaJdBhMYMJj4_ais7E/view?usp=sharing">Посилання на OneDrive</a></p> 
+<p>5. <a href="https://pnpu-my.sharepoint.com/:f:/g/personal/ratushna_sv_pdpu_edu_ua/EsPYHh0qh29Ij08tI120HQkB8-MMEM2Uu8jFtTNCRZxRmA?e=dPuUBq">Посилання на OneDrive</a></p> 
  6.1. Рідний формат для редактору Microsoft Office. 
  <p>6.1 <a href="lab1.docx">Формат Microsoft (*.docx)</a></p> 
 6.2. Рідний формат для редактору Libre (Open) Office.
@@ -82,7 +82,7 @@
    <p><a href="lab6.html">звіт до лабораторної роботи №6. Тема -  Google група</a></p>
    </div>
    <div class="clear"></div>
-   <div id="footer">&copy; Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Математики"</div>
+   <div id="footer">&copy; Сайт-звіт до лабораторних робіт студентки 1 курсу групи "Математики" Ратушної Світлани</div>
   </div>
  </body>
 </html>
