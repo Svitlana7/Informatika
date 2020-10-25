@@ -62,7 +62,7 @@
 <p>3. <iframe src="lab1.pdf" width="500" height="700"></iframe></p> 
 4. Посилання на Google диск для перегляду результату
 
-<p>4. <a href="https://drive.google.com/drive/folders/1QmlG1d_02z_R364lkV_t2PivhW2-6uYz">Посилання на Гугл диск</a></p> 
+<p>4. <a href="https://drive.google.com/drive/folders/1VvHc--Qsq0wdfXpsgw0jSUu-FNqTgaW1?usp=sharing">Посилання на Гугл диск</a></p> 
 
 5. OneDrive для перегляду результату
 <p>5. <a href="https://drive.google.com/file/d/1-qSt0Ly_LgkXTidaJdBhMYMJj4_ais7E/view?usp=sharing">Посилання на OneDrive</a></p> 
