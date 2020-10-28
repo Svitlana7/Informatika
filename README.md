@@ -67,10 +67,22 @@
 5. OneDrive для перегляду результату
 <p>5. <a href="https://pnpu-my.sharepoint.com/:f:/g/personal/ratushna_sv_pdpu_edu_ua/EsPYHh0qh29Ij08tI120HQkB8-MMEM2Uu8jFtTNCRZxRmA?e=dPuUBq">Посилання на OneDrive</a></p> 
  6.1. Рідний формат для редактору Microsoft Office. 
- <p>6.1 <a href="lab1.docx">Формат Microsoft (*.docx)</a></p> 
+ <p>6.1 <a href="lab1.2.docx">Формат Microsoft (*.docx)</a></p> 
 6.2. Рідний формат для редактору Libre (Open) Office.
- <p>6.2 <a href="lab1.odt">Формат Open Office (*.odt)</a></p> 
+ <p>6.2 <a href="lab1.2.odt">Формат Open Office (*.odt)</a></p> 
+<h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
+3. iframe з результатом у pdf або html форматі 
+<p>3. <iframe src="lab1.2.pdf" width="500" height="700"></iframe></p> 
+4. Посилання на Google диск для перегляду результату
 
+<p>4. <a href="https://drive.google.com/file/d/1lK9UHjhfhke_ykr1_dRV2arsjuKN5rsD/view?usp=sharing">Посилання на Гугл диск</a></p> 
+
+5. OneDrive для перегляду результату
+<p>5. <a href="https://pnpu-my.sharepoint.com/:w:/g/personal/ratushna_sv_pdpu_edu_ua/EQy0SyI0NG1InaXNhxDbmcUBS1bpc69bNWnxJuHA-2j_kw?e=CepDP3">Посилання на OneDrive</a></p> 
+ 6.1. Рідний формат для редактору Microsoft Office. 
+ <p>6.1 <a href="lab1.2.docx">Формат Microsoft (*.docx)</a></p> 
+6.2. Рідний формат для редактору Libre (Open) Office.
+ <p>6.2 <a href="lab1.2.odt">Формат Open Office (*.odt)</a></p> 
    </div>
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
