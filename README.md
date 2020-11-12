@@ -88,7 +88,7 @@
 
 3. iframe з результатом у pdf або html форматі
 
-<p>3. <iframe src="lab1.pdf" width="500" height="700"></iframe></p>
+<p>3. <iframe src="lab2.xls" width="500" height="700"></iframe></p>
 
 4. Посилання на Google диск для перегляду результату <p>4. <a href="https://drive.google.com/file/d/1dNx-dzy4HO0T39bg1ZjqTFHGiaa-qnZ5/view?usp=sharing">Посилання на Гугл диск</a></p>
 
@@ -96,7 +96,7 @@
 
 6.1. Рідний формат для редактору Microsoft Office.
 
-<p>6.1 <a href="lab2.docx">Формат Microsoft (*.docx)</a></p>
+<p>6.1 <a href="lab2.xls">Формат Microsoft (*.docx)</a></p>
 
 6.2. Рідний формат для редактору Libre (Open) Office.
 
