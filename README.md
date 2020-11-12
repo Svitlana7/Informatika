@@ -83,6 +83,24 @@
  <p>6.1 <a href="lab1.2.docx">Формат Microsoft (*.docx)</a></p> 
 6.2. Рідний формат для редактору Libre (Open) Office.
  <p>6.2 <a href="lab1.2.odt">Формат Open Office (*.odt)</a></p> 
+
+<h2>звіт до лабораторної роботи №2. Тема - Табличний процесор </h2>
+
+3. iframe з результатом у pdf або html форматі
+
+<p>3. <iframe src="lab1.pdf" width="500" height="700"></iframe></p>
+
+4. Посилання на Google диск для перегляду результату <p>4. <a href="https://drive.google.com/file/d/1dNx-dzy4HO0T39bg1ZjqTFHGiaa-qnZ5/view?usp=sharing">Посилання на Гугл диск</a></p>
+
+5. OneDrive для перегляду результату <p>5. <a href="https://pnpu-my.sharepoint.com/:x:/g/personal/ratushna_sv_pdpu_edu_ua/EcP67wuUyoRKp3B-a4L0dgMB6CWlc6nxHyb1NTakt-oCJA?e=VWV7ua">Посилання на OneDrive</a></p>
+
+6.1. Рідний формат для редактору Microsoft Office.
+
+<p>6.1 <a href="lab2.docx">Формат Microsoft (*.docx)</a></p>
+
+6.2. Рідний формат для редактору Libre (Open) Office.
+
+<p>6.2 <a href="lab2.odt">Формат Open Office (*.odt)</a></p>
    </div>
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
