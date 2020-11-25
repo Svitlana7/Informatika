@@ -100,13 +100,29 @@
 
 6.2. Рідний формат для редактору Libre (Open) Office.
 
-<p>6.2 <a href="lab2.ods">Формат Open Office (*.ods)</a></p>
+<h2>звіт до лабораторної роботи №3. Тема - Табличний процесор. Адресація. Арифметичні операції </h2>
+
+3. iframe з результатом у pdf або html форматі
+
+<p>3. <iframe src="lab3.pdf" width="500" height="700"></iframe></p>
+
+4. Посилання на Google диск для перегляду результату <p>4. <a href="https://drive.google.com/file/d/1wLW_LDNpqJuJxi2JYu-MtU59-4tQrRKa/view?usp=sharing">Посилання на Гугл диск</a></p>
+
+5. OneDrive для перегляду результату <p>5. <a href="https://pnpu-my.sharepoint.com/:x:/g/personal/ratushna_sv_pdpu_edu_ua/EZrlRbA_RedFv7wmaHeR0CkBS-fVYhS7PFKPw4LFUskx1Q?e=j1pc42">Посилання на OneDrive</a></p>
+
+6.1. Рідний формат для редактору Microsoft Office.
+
+<p>6.1 <a href="lab3.xls">Формат Microsoft (*.xls)</a></p>
+
+6.2. Рідний формат для редактору Libre (Open) Office.
+
+<p>6.2 <a href="lab3.ods">Формат Open Office (*.ods)</a></p>
    </div>
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
     <p><a href="lab1.html">звіт до лабораторної роботи №1. Тема - Текстовий процесор</a></p>
     <p><a href="lab2.html">звіт до лабораторної роботи №2. Тема - Табличний процесор</a></p>
-    <p><a href="lab3.html">звіт до лабораторної роботи №3. Тема - Google малюнок</a></p>
+    <p><a href="lab3.html">звіт до лабораторної роботи №3. Тема - Табличний процесор. Адресація. Арифметичні операції</a></p>
     <p><a href="lab4.html">звіт до лабораторної роботи №4. Тема - Google форма-опитування</a></p>
    <p><a href="lab5.html">звіт до лабораторної роботи №5. Тема - Google форма-тестування</a></p>
    <p><a href="lab6.html">звіт до лабораторної роботи №6. Тема -  Google група</a></p>
