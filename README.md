@@ -130,7 +130,7 @@
 
 6.1. Рідний формат для редактору Microsoft Office.
 
-<p>6.1 <a href="lab4.xls">Формат Microsoft (*.xls)</a></p>
+<p>6.1 <a href="lab4.xlsx">Формат Microsoft (*.xlsx)</a></p>
 
 6.2. Рідний формат для редактору Libre (Open) Office.
 
