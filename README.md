@@ -172,9 +172,9 @@
 <p>6.2 <a href="lab6.png">Формат Open Office (*.png)</a></p>
 
 7.1 Посилання на проходження тесту на тему "Комп'ютерна графіка"
-<p>5. <a href="https://forms.gle/TNfsjDcY4KgRETy16">Тест "Комп'ютерна графіка"</a></p>
+<p>7.1. <a href="https://forms.gle/TNfsjDcY4KgRETy16">Тест "Комп'ютерна графіка"</a></p>
 7.2 Перегляд таблиці з результатами тестування
-<p>5. <a href="https://docs.google.com/spreadsheets/d/11gatIGPQ8ebZYstPaSFzZaUIgN3VnjAATweibbldsVU/edit#gid=770016064">Результати тестування</a></p>
+<p>7.2. <a href="https://docs.google.com/spreadsheets/d/11gatIGPQ8ebZYstPaSFzZaUIgN3VnjAATweibbldsVU/edit#gid=770016064">Результати тестування</a></p>
    </div>
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
