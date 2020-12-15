@@ -158,7 +158,7 @@
 
 3. iframe з результатом у pdf або html форматі
 
-<p>3. <iframe src="lab6.jpg" width="800" height="500"></iframe></p>
+<p>3. <iframe src="lab6.jpg" width="500" height="700"></iframe></p>
 
 4. Посилання на Google диск для перегляду результату <p>4. <a href="https://drive.google.com/file/d/1VUc8-8TwdcI3isULyR8aibSGwcFOJykF/view?usp=sharing">Посилання на Гугл диск</a></p>
 
