@@ -164,12 +164,12 @@
 
 5. OneDrive для перегляду результату <p>5. <a href="https://pnpu-my.sharepoint.com/:i:/g/personal/ratushna_sv_pdpu_edu_ua/EaWvnpC7_95FoRs6rklTeDMB2Sp3JIdW-WVaQKCcosmhrg?e=5FIPOK">Посилання на OneDrive</a></p>
 
-6.1. Рідний формат для редактору Microsoft Office.
+6.1. Перегляд в форматі JPG.
 
-<p>6.1 <a href="lab6.jpg">Формат Microsoft (*.jpg)</a></p>
+<p>6.1 <a href="lab6.jpg">Формат JPG (*.jpg)</a></p>
 
-6.2. Рідний формат для редактору Libre (Open) Office.
-<p>6.2 <a href="lab6.png">Формат Open Office (*.png)</a></p>
+6.2. Прегляд в форматі PNG.
+<p>6.2 <a href="lab6.png">Формат PNG (*.png)</a></p>
 
 7.1 Посилання на проходження тесту на тему "Комп'ютерна графіка"
 <p>7.1. <a href="https://forms.gle/TNfsjDcY4KgRETy16">Тест "Комп'ютерна графіка"</a></p>
