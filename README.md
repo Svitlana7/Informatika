@@ -175,7 +175,7 @@
 <p>7.1. <a href="https://forms.gle/TNfsjDcY4KgRETy16">Тест "Комп'ютерна графіка"</a></p>
 7.2 Перегляд таблиці з результатами тестування
 <p>7.2. <a href="https://docs.google.com/spreadsheets/d/11gatIGPQ8ebZYstPaSFzZaUIgN3VnjAATweibbldsVU/edit#gid=770016064">Результати тестування</a></p>
-OneDrive для перегляду результату <p>7.3. <a href="https://pnpu-my.sharepoint.com/:x:/g/personal/ratushna_sv_pdpu_edu_ua/EYDgHG6Q8hNNuctIf_lj-48BuqflIqUrfh-U8HWQxih6rQ?e=MZq3EW">Посилання на OneDrive</a></p>
+OneDrive для перегляду результату <p>7.3. <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=StMNzR0mMkWyyGUC8WoY3EzPA54QrfxLiHc6ixtCT8JUMVNXTVhRT1dBSzBEVE5TNFlBTUVHVDJZRi4u">Посилання на OneDrive</a></p>
 Посилання на Google диск для перегляду результату <p>7.4 <a href="https://docs.google.com/forms/d/1iszaMRHq5mdu49ieZ3IJGPqgKP6C7c3qUISRHMvBk-o/edit?usp=sharing">Посилання на Гугл диск</a></p>
    </div>
    <div id="sidebar">
