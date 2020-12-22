@@ -142,16 +142,16 @@
 
 <p>3. <iframe src="lab5.pdf" width="500" height="700"></iframe></p>
 
-4. Посилання на Google диск для перегляду результату <p>4. <a href="">Посилання на Гугл диск</a></p>
+4. Посилання на Google диск для перегляду результату <p>4. <a href="https://drive.google.com/file/d/1yMsXqrXIsHFjBzFYCnswylbK1NLD0j-q/view?usp=sharing">Посилання на Гугл диск</a></p>
 
-5. OneDrive для перегляду результату <p>5. <a href="https:/">Посилання на OneDrive</a></p>
+5. OneDrive для перегляду результату <p>5. <a href="https://pnpu-my.sharepoint.com/:p:/g/personal/ratushna_sv_pdpu_edu_ua/ERDQY9jlB4dHtyXOwyid6RMBZHElHX9FMcySA8_jxQPxaw?e=87UDtJ">Посилання на OneDrive</a></p>
 
 6.1. Рідний формат для редактору Microsoft Office.
 
-<p>6.1 <a href="lab5.xlsx">Формат Microsoft (*.xlsx)</a></p>
+<p>6.1 <a href="lab5.pptx">Формат Microsoft (*.pptx)</a></p>
 
-6.2. Рідний формат для редактору Libre (Open) Office.
-<p>6.2 <a href="lab5.ods">Формат Open Office (*.ods)</a></p>
+6.2. Перегляд у форматі ODP.
+<p>6.2 <a href="lab5.odp">Формат Open Office (*.odp)</a></p>
 
 
 <h2>звіт до лабораторної роботи №6. Тема - Комп'ютерна графіка </h2>
